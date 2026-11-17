@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Dagnaw Aysie 👋
 
-<!--
-**dagnaw-aysie/dagnaw-aysie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Database Developer & SQL Specialist** focused on designing scalable, normalized, and efficient relational database systems.
 
-Here are some ideas to get you started:
+#### 🛠️ Technical Skills
+* **Databases:** PostgreSQL, MySQL, SQLite
+* **Core Competencies:** Relational Data Modeling, Schema Design, Complex SQL Queries (`JOINs`, Subqueries, Aggregations), Data Integrity & Normalization
+* **Tools:** Git, GitHub, DB Fiddle, pgAdmin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Project
+* **[Ethiopian Postal Service Relational Database](https://github.com):** A full relational database system built with PostgreSQL to manage branch operations, customer records, and inter-city parcel tracking across Ethiopia.
+
+#### 📫 Connect With Me
+* **Location:** Ethiopia (Open to Remote & Relocation Opportunities in Europe)
+* **GitHub:** [@dagnaw-aysie](https://github.com)
